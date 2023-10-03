@@ -70,9 +70,6 @@ class Main {
     }
 }
 
-
-
-
 abstract class Number {
 
 
